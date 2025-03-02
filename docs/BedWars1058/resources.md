@@ -13,8 +13,10 @@ Here you can find the links to the list of material (item) names for minecraft.
 | 1.16.4          | [Materials](https://helpch.at/docs/1.16.4/org/bukkit/Material.html)   | [Sounds](https://helpch.at/docs/1.16.4/org/bukkit/Sound.html) | [PotionEffects](https://helpch.at/docs/1.16.4/org/bukkit/potion/PotionEffectType.html) |
 | 1.17.1          | [Materials](https://helpch.at/docs/1.17.1/org/bukkit/Material.html)   | [Sounds](https://helpch.at/docs/1.17.1/org/bukkit/Sound.html) | [PotionEffects](https://helpch.at/docs/1.17.1/org/bukkit/potion/PotionEffectType.html) |
 | 1.18.2          | [Materials](https://helpch.at/docs/1.18.2/org/bukkit/Material.html)   | [Sounds](https://helpch.at/docs/1.18.2/org/bukkit/Sound.html) | [PotionEffects](https://helpch.at/docs/1.18.2/org/bukkit/potion/PotionEffectType.html) |
-| 1.19.3 (latest) | [Materials](https://helpch.at/docs/1.19.3/org/bukkit/Material.html)   | [Sounds](https://helpch.at/docs/1.19.3/org/bukkit/Sound.html) | [PotionEffects](https://helpch.at/docs/1.19.3/org/bukkit/potion/PotionEffectType.html) |
-
+| 1.19.3          | [Materials](https://helpch.at/docs/1.19.3/org/bukkit/Material.html)   | [Sounds](https://helpch.at/docs/1.19.3/org/bukkit/Sound.html) | [PotionEffects](https://helpch.at/docs/1.19.3/org/bukkit/potion/PotionEffectType.html) |
+| 1.20.4          | [Materials](https://helpch.at/docs/1.20.4/org/bukkit/Material.html)   | [Sounds](https://helpch.at/docs/1.20.4/org/bukkit/Sound.html) | [PotionEffects](https://helpch.at/docs/1.20.4/org/bukkit/potion/PotionEffectType.html) |
+| 1.21.1          | [Materials](https://helpch.at/docs/1.21.1/org/bukkit/Material.html)   | [Sounds](https://helpch.at/docs/1.21.1/org/bukkit/Sound.html) | [PotionEffects](https://helpch.at/docs/1.21.1/org/bukkit/potion/PotionEffectType.html) |
+| 1.21.4          | [Materials](https://jd.papermc.io/paper/1.21.4/org/bukkit/Material.html)   | [Sounds](https://jd.papermc.io/paper/1.21.4/org/bukkit/Sound.html) | [PotionEffects](https://jd.papermc.io/paper/1.21.4/org/bukkit/PotionEffectType.html) |
 :::tip
 
 Use `CTRL + F` to search on those pages
