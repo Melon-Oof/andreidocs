@@ -5,29 +5,40 @@ title: Compatibility
 slug: /compatibility/
 ---
 ---
+
+### Supported Software & Versions
+
+Legend:
+- 🟩 Currently supported
+- 🟨 Scheduled for removal
+- 🟥 Version no longer supported
+- ⚠️ Not fully tested
+- 🟪 Compatible. No help provided.
 ### Supported Server Software
 
 | Status | Minecraft Edition | Server Software                     |
 |--------|-------------------|-------------------------------------|
 | 🟩     | Java Edition      | [Spigot](https://www.spigotmc.org/) | 
 | 🟩     | Java Edition      | [Paper](https://papermc.io/)        |
+| 🟪     | Java Edition      | [Purpur](https://purpurmc.org/)     |
+| 🟪     | Java Edition      | [Pufferfish](https://pufferfish.host/downloads)     |
 
 ### Supported Minecraft Versions
 
-| Status | Mc version          |  Minimum Java Version | End of Support                 |
+| Status | Server version          |  Java Requirement | Support Status                 |
 |--------|---------------------|----------------------|--------------------------------|
-| 🟪     | 1.20.3              | 17                   | Coming Soon                    |
+| ⚠️     | 1.20.3 - 1.21.4     | 20                   | Supported (v25.3)              |
 | 🟩     | 1.20.2              | 17                   | Supported                      |
-| 🟨     | 1.20 - 1.20.1       | 17                   | Scheduled for removal in 2024. |
+| 🟨     | 1.20 - 1.20.1       | 17                   | Scheduled for removal.         |
 | 🟩     | 1.19.3 - 1.19.4     | 17                   | Supported                      |
 | 🟩     | 1.18.2              | 17                   | Supported                      |
 | 🟥     | ~~1.18.1~~          | ~~17~~               | Removed                        |
-| 🟨     | 1.17 - 1.17.1       | 17                   | Scheduled for removal in 2024. |
+| 🟨     | 1.17 - 1.17.1       | 17                   | Scheduled for removal.         |
 | 🟩     | 1.16.5              | 11                   | Supported                      |
 | 🟥     | ~~1.13.1 - 1.16.3~~ | ~~8~~                | Removed in v22.7               | 
 | 🟩     | 1.12.2              | 11                   | Supported                      |
 | 🟥     | ~~1.9.4 - 1.11~~    | ~~8~~                | Removed in v22.7               |
-| 🟨     | 1.8.8               | 11                   | Scheduled for removal in 2024. |
+| 🟨     | 1.8.8               | 11                   | Scheduled for removal.         |
 
 
 
